@@ -1,5 +1,5 @@
 # ReconBox
-💻📦🔎 Script en bash para el reconocimineto y escaneo de las máquinas de Hack The Box. 🔍📦💻
+💻📦🔎 Script en bash para el reconocimiento y escaneo de las máquinas de Hack The Box. 🔍📦💻
 
 
 ### ⚙️⚙️ Requisitos Previos ⚙️⚙️
