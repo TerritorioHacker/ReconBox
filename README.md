@@ -35,6 +35,7 @@ else
     echo -e "\n[+] Sistema Operativo Desconocido."
 fi
 ```
+![](./img/img1.png)
 
 ### 🔹 3. Escaneo de Puertos con Nmap
 
@@ -70,6 +71,9 @@ if [[ "$ports" == *"80"* ]]; then
     fi
 fi
 ```
+![](./img/img5.png)
+
+
 ### 🔹 5. Fuzzing y Escaneo de Directorios con WFuzz
 
 El script permite realizar fuzzing en aplicaciones web encontradas en el puerto 80 o 443. Esto ayuda a identificar directorios o archivos ocultos que podrían contener información sensible.
@@ -91,3 +95,6 @@ if [[ "$ports" == *"27017"* ]]; then
     fi
 fi
 ```
+
+![](./img/img4.png)
+
