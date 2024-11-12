@@ -1,1 +1,1 @@
-# 🖼️ Carpteta de Imágenes 🖼️
+#🖼️ Carpteta de Imágenes 🖼️
